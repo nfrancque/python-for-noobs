@@ -36,9 +36,23 @@ So, git allows us to edit our code locally and run whatever tests against it our
 
 GitHub is a popular website that implements Git for us.  You will need an account there to download the code.  Please visit [Github](https://github.com/) and follow the signup links.  Return back here once you are done.
 
-When you are ready to try git, type `git clone https://github.com/nfrancque/python-for-noobs.git` on your command line.  This will download the code immediately!  See how easy that was?
+When you are ready to try git, we will need to find a place to put our code.  You should find a place on your computer where you'd like to put projects, and create a directory there called projects.  I recommend C:\Users\[your_username]\projects.
+
+Next, you'll want to go there in your command line.  The command to change directory is `cd`.  This is the equivalent of clicking a folder in Windows.  
+
+Importantly, in WSL your user folder is mounted at /mnt/c/[your_username].
+
+So, to get to the suggested projects directory, type `cd /mnt/c/[your_username]/projects`.  
+
+Next, we want to download our code into this folder.  Type `git clone https://github.com/nfrancque/python-for-noobs.git` on your command line.  This will download the code immediately!  See how easy that was?
 
 This now lets us try out our Python interpreter.  Let's ask it to interpret the file `helloworld.py` in the current directory.  Type `python3 helloworld.py`.  It will print 'Hello, World!', proving to us that Python has read our code and done something useful with it (well, sort of useful).
 
-Ready for something bigger?
 
+# Text Editors
+
+As a brief note, I mentioned you will want a better text editor.  This is not a joke, it really is a requirement.  
+
+Go ahead and download `https://code.visualstudio.com/Download`.  It is a great editor and you can make a choice later.  
+
+Ready for something bigger?
