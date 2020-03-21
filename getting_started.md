@@ -53,6 +53,6 @@ This now lets us try out our Python interpreter.  Let's ask it to interpret the 
 
 As a brief note, I mentioned you will want a better text editor.  This is not a joke, it really is a requirement.  
 
-Go ahead and download `https://code.visualstudio.com/Download`.  It is a great editor and you can make a choice later.  
+Go ahead and download [VSCode](https://code.visualstudio.com/Download).  It is a great editor and you can make a choice later.  
 
 Ready for something bigger?
