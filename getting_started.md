@@ -22,7 +22,7 @@ In the WSL command prompt, type `python3 --version`.
 
 You should see some information about what eversion of `python3` is installed with WSL, and it should be >=3.6.
 
-Next, type `git --help`.  Some similar information for our version of git should be displayed.
+Next, type `git --version`.  Some similar information for our version of git should be displayed.
 
 ## What *are* Python and Git?
 
