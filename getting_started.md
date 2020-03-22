@@ -55,4 +55,14 @@ As a brief note, I mentioned you will want a better text editor.  This is not a 
 
 Go ahead and download [VSCode](https://code.visualstudio.com/Download).  It is a great editor and you can make a choice later.  
 
+You will want to check all the boxes in the install popup - add to context menu for files/folders, etc.
+
+Once installed, hit 'open folder' and navigate to our projects directory.  Once you've opened this, you should see all the files in our repo listed on the left toolbar.
+
+You may see options for installation recommendations popping up.  Go ahead and follow those - Python, Remote - WSL, and Git show up in my case.  Install any software it asks you to, VSCode is open source and trustworthy with its choices.
+
+
+
+
+
 Ready for something bigger?
