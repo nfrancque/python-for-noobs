@@ -61,8 +61,18 @@ Once installed, hit 'open folder' and navigate to our projects directory.  Once 
 
 You may see options for installation recommendations popping up.  Go ahead and follow those - Python, Remote - WSL, and Git show up in my case.  Install any software it asks you to, VSCode is open source and trustworthy with its choices.
 
-
-
-
-
 Ready for something bigger?
+
+# Review
+
+What is Python?  
+
+What is Git?
+
+Why do we need Git?
+
+How do we run a Python program?
+
+# Next Lesson
+
+When you feel you can answer the review questions, continue on to [Lesson 1](lessons/lesson1/README.md)
