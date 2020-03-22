@@ -39,5 +39,31 @@ Next, type `git commit -m "Your commit message here"`, where you commit message 
 
 We are almost there.  The commands up until now have added your changes to your local git repository.  We would now like to check them in to be shared with our teammates.
 
-Type `git push --set-upstream origin [username]` where username is the name of the branch you previously created.
+Type `git push --set-upstream origin [username]` where username is the name of the branch you previously created.  You may need to input your credentials.
+
+We did it!  Now, visit the [GitHub](https://github.com/nfrancque/python-for-noobs) page and check where it says 'Branch: master'.  Click on the dropdown box and select your new branch.  
+
+You are now looking at your own personal branch of this repository.  Great job!  We will use this branch to check in your work as the course progresses.
+
+
+# Review 
+
+What is a function?
+
+What is printing?
+
+What is a string?
+
+What is a git branch?
+
+Why do we need a git branch?
+
+# Pop Quiz
+
+Before continuing on to the next lesson, notify your instructor that you've completed lesson 1.  We will verify that your branch has been checked in and that your program prints out the proper message.
+
+# Next Lesson
+
+Once your program has been verified, go ahead and check out [Lesson 2](../lesson2/README.md)!
+
 
